@@ -15,4 +15,4 @@
 * [Q2739](https://www.acmicpc.net/problem/2739) - 구구단
 * [Q1008](https://www.acmicpc.net/problem/1008) - A/B
 * [Q2741](https://www.acmicpc.net/problem/2741) - N 찍기
-* [Q9498](https://www.acmicpc.net/problem/10718) - 시험 성적
+* [Q9498](https://www.acmicpc.net/problem/9498) - 시험 성적
