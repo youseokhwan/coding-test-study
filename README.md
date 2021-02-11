@@ -25,7 +25,6 @@
 - GitHub 코드리뷰 진행 방법(파일 및 디렉터리는 예시임)
     1. 문제 제공자는 Baekjoon/QuestionList.md에 문제 링크를 추가하고 Push한다.
     Commit Message는 "Add Question: Baekjoon Q2557" 혹은 "Add Questions: Baekjoon Q2557 ~ Q2558"
-    문제 내용을 수정할 경우는 "Update Question: Baekjoon Q2557"
     2. 구성원들은 Baekjoon/홍길동/에 Baekjoon/홍길동/Q2557.java을 작성해서 Push한다.
     최초 제출이므로 Commit Message는 "Submit Baekjoon/홍길동/Q2557.java"
     3. 솔루션을 제출한 사람은 Discord를 통해 구성원들에게 코드리뷰를 요청하고, 구성원들은 피드백을 한다.
