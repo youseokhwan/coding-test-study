@@ -9,7 +9,7 @@ class Main {
         int a = Integer.parseInt(bufferedReader.readLine());
 
         for (int i = 1; i <= 9; i++) {
-            stringBuilder.append(a).append(" * ").append(i).append(" = ").append(a*i).append("\n");
+            stringBuilder.append(a).append(" * ").append(i).append(" = ").append(a * i).append("\n");
         }
 
         System.out.print(stringBuilder);
