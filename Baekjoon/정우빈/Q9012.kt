@@ -1,5 +1,3 @@
-import java.util.*
-
 // ( = push, ) = pop or false
 // 괄호 남으면 false
 
@@ -15,17 +13,17 @@ fun main () {
 }
 
 fun ex(str: String): String {
-    val stack = Stack<Char>()
+    val stack = arrayListOf<Char>()
     str.forEach {
         if (it == '(') {
-            stack.push(it)
+            stack.add(it)
         }
         else {
             if (stack.isEmpty()) {
                 return "NO"
             }
             else {
-                stack.pop()
+                stack.removeAt(stack.size-1)
             }
         }
     }
