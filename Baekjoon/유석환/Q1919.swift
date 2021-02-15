@@ -1,5 +1,5 @@
-var first = readLine()!
-var second = readLine()!
+var first = Array(readLine()!)
+var second = Array(readLine()!)
 var result = 0
 
 for character in first {
