@@ -24,7 +24,6 @@ public class Main {
                     result[i] = '?';
                     continue;
                 }
-
             }
         }
         System.out.println(result);
