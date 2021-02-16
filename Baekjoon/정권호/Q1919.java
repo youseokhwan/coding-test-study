@@ -18,8 +18,8 @@ public class Main {
         int count = 0;
 
         for (int i = 0; i < cmp2.length; i++) {
-            boolean contains = result.contains(cmp2[i]);
-            if (contains) {
+            boolean isContain = result.contains(cmp2[i]);
+            if (isContain) {
                 result.remove((Character) cmp2[i]);
                 continue;
             }
