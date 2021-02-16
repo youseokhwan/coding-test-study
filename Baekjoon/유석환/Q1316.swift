@@ -1,24 +1,21 @@
 let N = Int(readLine()!)!
-var words = [String]()
+var words = [[Character]]()
 var groupWord = N
 
 for _ in 1...N {
-    words.append(readLine()!)
+    words.append(Array(readLine()!))
 }
 
 for word in words {
     var completedAlphabet = Set<Character>()
 
     for i in 1..<word.count {
-        let currentAlphabet = word[word.index(word.startIndex, offsetBy: i)]
-        let previousAlphabet = word[word.index(word.startIndex, offsetBy: i - 1)]
-
-        if (currentAlphabet != previousAlphabet) {
-            if (completedAlphabet.contains(currentAlphabet)) {
+        if word[i] != word[i - 1] {
+            if completedAlphabet.contains(word[i]) {
                 groupWord -= 1
                 break
             } else {
-                completedAlphabet.insert(previousAlphabet)
+                completedAlphabet.insert(word[i - 1])
             }
         }
     }
