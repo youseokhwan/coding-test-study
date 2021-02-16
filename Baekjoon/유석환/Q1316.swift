@@ -14,9 +14,8 @@ for word in words {
             if completedAlphabet.contains(word[i]) {
                 groupWord -= 1
                 break
-            } else {
-                completedAlphabet.insert(word[i - 1])
             }
+            completedAlphabet.insert(word[i - 1])
         }
     }
 }
