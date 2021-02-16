@@ -2,6 +2,13 @@
 
 [Baekjoon](https://www.acmicpc.net/)의 문제 링크들을 모아놓은 문서
 
+## 그리디
+
+### 21-02-16
+
+* [Q5585](https://www.acmicpc.net/problem/5585) - 거스름돈
+* [Q11047](https://www.acmicpc.net/problem/11047) - 동전 0
+
 ## 구현 문제
 
 ### 21-02-14
@@ -27,7 +34,3 @@
 * [Q1000](https://www.acmicpc.net/problem/1000) - A+B
 * [Q1001](https://www.acmicpc.net/problem/1001) - A-B
 * [Q10718](https://www.acmicpc.net/problem/10718) - We love kriii
-
-
-
-
