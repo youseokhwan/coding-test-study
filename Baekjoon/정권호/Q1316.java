@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -9,15 +8,12 @@ public class Main {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int num = Integer.parseInt(reader.readLine());
         int result = 0;
-        char[] word;
-
         HashSet<Character> words = new HashSet<>();
-        boolean check;
 
         for (int i = 0; i < num; i++) {
-            check = true;
+            boolean check = true;
             words.clear();
-            word = reader.readLine().toCharArray();
+            char[] word = reader.readLine().toCharArray();
             result++;
             words.add(word[0]);
             for (int j = 0; j < word.length - 1; j++) {
@@ -31,5 +27,4 @@ public class Main {
             }
         }
         System.out.println(result);
-    }
 }
