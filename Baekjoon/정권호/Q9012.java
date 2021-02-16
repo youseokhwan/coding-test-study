@@ -20,12 +20,12 @@ public class Main {
             for (int j = 0; j < ps.length; j++) {
                 if (ps[j] == '(') {
                     count++;
-                } else {
-                    count--;
-                    if (count < 0) {
-                        result = "NO";
-                        break;
-                    }
+                    continue;
+                }
+                count--;
+                if (count < 0) {
+                    result = "NO";
+                    break;
                 }
             }
             if (count != 0) {
