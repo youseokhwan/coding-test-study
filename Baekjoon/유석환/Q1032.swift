@@ -1,19 +1,17 @@
 let N = Int(readLine()!)!
-var fileName = [String]()
+var fileName = [[Character]]()
 
 for _ in 1...N {
-    fileName.append(readLine()!)
+    fileName.append(Array(readLine()!))
 }
 
 for (i, v) in fileName[0].enumerated() {
     for j in 1..<N {
-        if (v != fileName[j][fileName[j].index(fileName[j].startIndex, offsetBy: i)]) {
-            let index = fileName[0].index(fileName[0].startIndex, offsetBy: i)
-            
-            fileName[0].replaceSubrange(index...index, with: "?")
+        if (v != fileName[j][i]) {
+            fileName[0][i] = "?"
             continue
         }
     }
 }
 
-print(fileName[0])
+print(String(fileName[0]))
