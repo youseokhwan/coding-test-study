@@ -1,13 +1,15 @@
 var first = Array(readLine()!)
 var second = Array(readLine()!)
-var result = 0
+var alphabetCount = Array(repeating: 0, count: 26)
 
 for character in first {
-    if second.contains(character) {
-        second.remove(at: second.firstIndex(of: character)!)
-    } else {
-        result += 1
-    }
+    alphabetCount[Int(character.asciiValue!) - 97] += 1
 }
 
-print(result + second.count)
+for character in second {
+    alphabetCount[Int(character.asciiValue!) - 97] -= 1
+}
+
+print(alphabetCount.reduce(0, { x, y in
+    abs(x) + abs(y)
+}))
