@@ -18,9 +18,7 @@ fun main () {
             change %= unit[i]
 
             // 남은 잔돈이 0이면 break
-            if (change == 0) {
-                break;
-            }
+            if (change == 0) break
         }
     }
 
