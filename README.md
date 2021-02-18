@@ -11,6 +11,7 @@
 - 정권호(Java)
 - 정우빈(Kotlin)
 - 김경훈(Javascript)
+- 유양우(C++)
 
 1. 전공자들이니 언어가 달라도 큰 문제가 없을 것으로 예상
 2. 코드를 설명할 때 해당 언어를 모르는 사람에게도 이해시킬 수 있을 정도로 설명
@@ -18,18 +19,16 @@
 
 ## 코드리뷰
 
-1. 코드 리뷰 및 과제 제출은 GitHub를 통해 진행한다.
-2. 코드설명은 Discord 화면공유를 통해 진행하며 한 문제를 한 사람이 대표로 설명한다.
-설명을 들은 사람들은 피드백을 진행한다. (개선점, 다른 풀이방법 제시, 질문 등)
+1. 코드리뷰는 Discord로 진행한다.
+2. 문제를 풀고 설명을 덧붙인 뒤 본인의 코드리뷰 채널에 올린다.
+3. 질문 및 코드리뷰를 받고 수정할 사항이 있으면 수정한다.
+4. 코드리뷰가 끝나면 채널을 삭제한다. (메모해 둘 사항이 있다면 따로 메모)
 
-- GitHub 코드리뷰 진행 방법(파일 및 디렉터리는 예시임)
-    1. 문제 제공자는 Baekjoon/QuestionList.md에 문제 링크를 추가하고 Push한다.
-    Commit Message는 "Add Question: Baekjoon Q2557" 혹은 "Add Questions: Baekjoon Q2557 ~ Q2558"
-    2. 구성원들은 Baekjoon/홍길동/에 Baekjoon/홍길동/Q2557.java을 작성해서 Push한다.
-    최초 제출이므로 Commit Message는 "Submit Baekjoon/홍길동/Q2557.java"
-    3. 솔루션을 제출한 사람은 Discord를 통해 구성원들에게 코드리뷰를 요청하고, 구성원들은 피드백을 한다.
-    4. 만약 코드의 수정이 필요한 경우 Baekjoon/홍길동/Q2557.java를 수정한 후 Push한다.
-    이때 Commit Message는 "Update Baekjoon/홍길동/Q2557.java: A를 B로 변경"
+## 커밋 메시지(예시)
+
+* 문제 추가: "Add Question: Baekjoon Q1000"
+* 문제 제출: "Submit Baekjoon/홍길동/Q1000.java"
+* 문제 수정: "Update Baekjoon/홍길동/Q1000.java: 수정내용"
 
 ## 1단계 - 언어 숙달하기
 
