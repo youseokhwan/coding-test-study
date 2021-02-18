@@ -4,6 +4,10 @@
 
 ## 그리디
 
+### 21-02-18
+
+* [Q2217](https://www.acmicpc.net/problem/2217) - 로프
+
 ### 21-02-16
 
 * [Q5585](https://www.acmicpc.net/problem/5585) - 거스름돈
