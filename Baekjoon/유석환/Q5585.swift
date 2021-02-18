@@ -3,10 +3,8 @@ var money = 1000 - Int(readLine()!)!
 var count = 0
 
 for coin in coins {
-    while money >= coin {
-        money -= coin
-        count += 1
-    }
+    count += money / coin
+    money %= coin
 }
 
 print(count)
