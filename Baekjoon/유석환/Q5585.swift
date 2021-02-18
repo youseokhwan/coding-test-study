@@ -5,6 +5,10 @@ var count = 0
 for coin in coins {
     count += money / coin
     money %= coin
+    
+    if money == 0 {
+        break
+    }
 }
 
 print(count)
