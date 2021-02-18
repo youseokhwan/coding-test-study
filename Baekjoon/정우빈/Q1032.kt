@@ -2,16 +2,21 @@ fun main() {
     val count = readLine()!!.toInt()
     val output = StringBuilder(readLine()!!)
     val length = output.length
+    val strArr = ArrayList<String>(count)
 
     for (i in 0 until count - 1) {
-        val strNew = readLine()!!
-        for (j in 0 until length) {
-            if (output[j] != '?') {
-                if (output[j] != strNew[j]) {
-                    output[j] = '?'
-                }
+        strArr.add(readLine()!!)
+    }
+
+    for (i in 0 until length) {
+        for (j in 0 until count - 1) {
+            if (output[i] != strArr[j][i]) {
+                output[i] = '?'
+                break
             }
+            continue
         }
     }
+
     print(output)
 }
