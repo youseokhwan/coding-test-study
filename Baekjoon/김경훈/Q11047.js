@@ -17,7 +17,7 @@ for(element of input.reverse().map((el) => parseInt(el))) {
         // 나눌 수 있다면, 현재 단위의 동전으로 나눈 수 만큼 동전의 개수를 Int로 형변환 후 카운트.
         count += parseInt(K / element);
         // 계산 후 돈은 나머지만 남긴다.
-        K = K % element;
+        K %= element;
         // 돈이 0원이 되면 딱 맞아떨어지도록 계산이 된 것이므로 루프를 탈출한다.
         if(K == 0) {
             break;
