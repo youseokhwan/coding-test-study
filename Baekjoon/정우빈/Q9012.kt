@@ -17,20 +17,16 @@ fun ex(str: String): String {
     str.forEach {
         if (it == '(') {
             stack.add(it)
-        }
-        else {
+        } else {
             if (stack.isEmpty()) {
                 return "NO"
             }
-            else {
-                stack.removeAt(stack.size-1)
-            }
+            stack.removeAt(stack.size-1)
         }
     }
     return if (stack.isEmpty()) {
         "YES"
-    }
-    else {
+    } else {
         "NO"
     }
 }
