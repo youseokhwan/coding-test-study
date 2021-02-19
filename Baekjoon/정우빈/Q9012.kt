@@ -17,12 +17,12 @@ fun ex(str: String): String {
     str.forEach {
         if (it == '(') {
             stack.add(it)
-        } else {
-            if (stack.isEmpty()) {
-                return "NO"
-            }
-            stack.removeAt(stack.size-1)
+            return@forEach
         }
+        if (stack.isEmpty()) {
+            return "NO"
+        }
+        stack.removeAt(stack.size-1)
     }
     return if (stack.isEmpty()) {
         "YES"
