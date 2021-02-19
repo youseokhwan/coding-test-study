@@ -4,6 +4,12 @@
 
 ## 그리디
 
+### 21-02-19
+
+* [Q13458](https://www.acmicpc.net/problem/13458) - 시험 감독
+* [Q1931](https://www.acmicpc.net/problem/1931) - 회의실 배정
+* [Q11000](https://www.acmicpc.net/problem/11000) - 강의실 배정
+
 ### 21-02-18
 
 * [Q2217](https://www.acmicpc.net/problem/2217) - 로프
