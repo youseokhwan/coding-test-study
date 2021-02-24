@@ -4,6 +4,10 @@
 
 ## 그리디
 
+### 21-02-24
+
+* [Q1202](https://www.acmicpc.net/problem/1202) - 보석 도둑
+
 ### 21-02-19
 
 * [Q13458](https://www.acmicpc.net/problem/13458) - 시험 감독
