@@ -2,6 +2,13 @@
 
 [Baekjoon](https://www.acmicpc.net/)의 문제 링크들을 모아놓은 문서
 
+## DFS, BFS
+
+### 21-02-26
+
+* [Q1260](https://boj.kr/1260) - DFS와 BFS
+* [Q2606](https://boj.kr/2606) - 바이러스
+
 ## 그리디
 
 ### 21-02-24
