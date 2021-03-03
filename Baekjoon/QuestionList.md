@@ -6,12 +6,12 @@
 
 ### 21-03-03
 
-* [Q2667](https://boj.kr/2667) - 단지번호붙이기
+* [Q2667](https://www.acmicpc.net/problem/2667) - 단지번호붙이기
 
 ### 21-02-26
 
-* [Q1260](https://boj.kr/1260) - DFS와 BFS
-* [Q2606](https://boj.kr/2606) - 바이러스
+* [Q1260](https://www.acmicpc.net/problem/1260) - DFS와 BFS
+* [Q2606](https://www.acmicpc.net/problem/2606) - 바이러스
 
 ## 그리디
 
