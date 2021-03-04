@@ -4,6 +4,11 @@
 
 ## DFS, BFS
 
+### 21-03-04
+
+* [Q1012](https://www.acmicpc.net/problem/1012) - 유기농 배추
+* [Q2178](https://www.acmicpc.net/problem/2178) - 미로 탐색
+
 ### 21-03-03
 
 * [Q2667](https://www.acmicpc.net/problem/2667) - 단지번호붙이기
