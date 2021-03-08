@@ -2,6 +2,14 @@
 
 [Baekjoon](https://www.acmicpc.net/)의 문제 링크들을 모아놓은 문서
 
+## 정렬
+
+### 21-03-08
+
+* [Q2750](https://www.acmicpc.net/problem/2750) - 수 정렬하기
+* [Q2751](https://www.acmicpc.net/problem/2751) - 수 정렬하기 2
+* [Q10989](https://www.acmicpc.net/problem/10989) - 수 정렬하기 3
+
 ## DFS, BFS
 
 ### 21-03-04
