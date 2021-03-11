@@ -4,6 +4,15 @@
 
 ## 정렬
 
+### 21-03-11
+
+* [Q2108](https://www.acmicpc.net/problem/2108) - 통계학
+* [Q1427](https://www.acmicpc.net/problem/1427) - 소트인사이드
+* [Q11650](https://www.acmicpc.net/problem/11650) - 좌표 정렬하기
+* [Q11651](https://www.acmicpc.net/problem/11651) - 좌표 정렬하기 2
+* [Q1181](https://www.acmicpc.net/problem/1181) - 단어 정렬
+* [Q10814](https://www.acmicpc.net/problem/10814) - 나이순 정렬
+
 ### 21-03-08
 
 * [Q2750](https://www.acmicpc.net/problem/2750) - 수 정렬하기
