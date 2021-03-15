@@ -2,6 +2,13 @@
 
 [Baekjoon](https://www.acmicpc.net/)의 문제 링크들을 모아놓은 문서
 
+## 이진 탐색
+
+### 21-03-15
+
+* [Q1920](https://www.acmicpc.net/problem/1920) - 수 찾기
+* [Q10816](https://www.acmicpc.net/problem/10816) - 숫자 카드 2
+
 ## 정렬
 
 ### 21-03-11
