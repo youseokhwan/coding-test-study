@@ -4,6 +4,11 @@
 
 ## 이진 탐색
 
+### 21-03-18
+
+* [Q1654](https://www.acmicpc.net/problem/1654) - 랜선 자르기
+* [Q1300](https://www.acmicpc.net/problem/1300) - K번째 수
+
 ### 21-03-15
 
 * [Q1920](https://www.acmicpc.net/problem/1920) - 수 찾기
