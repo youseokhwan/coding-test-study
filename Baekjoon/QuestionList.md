@@ -4,6 +4,12 @@
 
 ## 다이나믹 프로그래밍
 
+### 21-03-24
+
+* [Q1904](https://www.acmicpc.net/problem/1904) - 01타일
+* [Q9461](https://www.acmicpc.net/problem/9461) - 파도반 수열
+* [Q1149](https://www.acmicpc.net/problem/1149) - RGB거리
+
 ### 21-03-21
 
 * [Q1003](https://www.acmicpc.net/problem/1003) - 피보나치 함수
