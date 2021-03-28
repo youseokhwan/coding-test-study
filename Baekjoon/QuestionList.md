@@ -4,6 +4,12 @@
 
 ## 다이나믹 프로그래밍
 
+### 21-03-28
+
+* [Q1932](https://www.acmicpc.net/problem/1932) - 정수 삼각형
+* [Q2579](https://www.acmicpc.net/problem/2579) - 계단 오르기
+* [Q1463](https://www.acmicpc.net/problem/1463) - 1로 만들기
+
 ### 21-03-24
 
 * [Q1904](https://www.acmicpc.net/problem/1904) - 01타일
