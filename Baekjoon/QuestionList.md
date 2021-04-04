@@ -2,6 +2,14 @@
 
 [Baekjoon](https://www.acmicpc.net/)의 문제 링크들을 모아놓은 문서
 
+## 문제 순위대로 풀기
+
+### 21-04-04
+
+* [Q1929](https://www.acmicpc.net/problem/1929) - 소수 구하기
+* [Q14502](https://www.acmicpc.net/problem/14502) - 연구소
+* [Q7576](https://www.acmicpc.net/problem/7576) - 토마토
+
 ## 최단 경로
 
 ### 21-03-31
