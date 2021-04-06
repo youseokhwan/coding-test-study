@@ -1023,3 +1023,5 @@ obj/
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,java,node,intellij,intellij+iml,intellij+all,xcode,swift,vscode,android,androidstudio,python,pycharm,pycharm+iml,pycharm+all
+
+/teamnote
