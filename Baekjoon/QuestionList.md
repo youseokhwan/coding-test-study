@@ -4,6 +4,12 @@
 
 ## 문제 순위대로 풀기
 
+### 21-04-07
+
+* [Q12865](https://www.acmicpc.net/problem/12865) - 평범한 배낭
+* [Q2206](https://www.acmicpc.net/problem/2206) - 벽 부수고 이동하기
+* [Q18870](https://www.acmicpc.net/problem/18870) - 좌표 압축
+
 ### 21-04-04
 
 * [Q1929](https://www.acmicpc.net/problem/1929) - 소수 구하기
