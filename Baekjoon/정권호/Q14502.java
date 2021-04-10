@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Q14502 {
+public class Main {
     public static int max = -1;
     public static int N;
     public static int M;

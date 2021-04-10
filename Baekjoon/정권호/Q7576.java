@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Q7576 {
+public class Main {
     public static int row;
     public static int col;
     public static int count = 0;
