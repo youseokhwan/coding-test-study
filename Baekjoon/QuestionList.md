@@ -4,6 +4,11 @@
 
 ## 문제 순위대로 풀기
 
+### 21-04-11
+
+* [Q1697](https://www.acmicpc.net/problem/1697) - 숨바꼭질
+* [Q1912](https://www.acmicpc.net/problem/1912) - 연속합
+
 ### 21-04-07
 
 * [Q12865](https://www.acmicpc.net/problem/12865) - 평범한 배낭
