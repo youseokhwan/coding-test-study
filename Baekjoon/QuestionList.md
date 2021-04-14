@@ -4,6 +4,12 @@
 
 ## 문제 순위대로 풀기
 
+### 21-04-14
+
+* [Q10844](https://www.acmicpc.net/problem/10844) - 쉬운 계단 수
+* [Q2156](https://www.acmicpc.net/problem/2156) - 포도주 시식
+* [Q11053](https://www.acmicpc.net/problem/11053) - 가장 긴 증가하는 부분 수열
+
 ### 21-04-11
 
 * [Q1697](https://www.acmicpc.net/problem/1697) - 숨바꼭질
