@@ -4,6 +4,11 @@
 
 ## 문제 순위대로 풀기
 
+### 21-04-28
+
+* [Q1011](https://www.acmicpc.net/problem/1011) - Fly me to the Alpha Centauri
+* [Q1987](https://www.acmicpc.net/problem/1987) - 알파벳
+
 ### 21-04-14
 
 * [Q10844](https://www.acmicpc.net/problem/10844) - 쉬운 계단 수
