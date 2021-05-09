@@ -4,6 +4,11 @@
 
 ## Level 1
 
+### 21-05-09
+
+* [Q77484](https://programmers.co.kr/learn/courses/30/lessons/77484) - 로또의 최고 순위와 최저 순위
+* [Q12977](https://programmers.co.kr/learn/courses/30/lessons/12977) - 소수 만들기
+
 ### 21-05-02
 
 * [Q64061](https://programmers.co.kr/learn/courses/30/lessons/64061) - 크레인 인형뽑기 게임
