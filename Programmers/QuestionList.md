@@ -2,6 +2,14 @@
 
 [Programmers](https://programmers.co.kr/learn/challenges)의 문제 링크들을 모아놓은 문서
 
+## Level 2
+
+### 21-05-19
+
+* [Q62048](https://programmers.co.kr/learn/courses/30/lessons/62048) - 멀쩡한 사각형
+* [Q42860](https://programmers.co.kr/learn/courses/30/lessons/42860) - 조이스틱
+* [Q60058](https://programmers.co.kr/learn/courses/30/lessons/60058) - 괄호 변환
+
 ## Level 1
 
 ### 21-05-12
