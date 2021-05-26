@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-05-26
+
+* [Q42586](https://programmers.co.kr/learn/courses/30/lessons/42586) - 기능개발
+* [Q42578](https://programmers.co.kr/learn/courses/30/lessons/42578) - 위장
+
 ### 21-05-19
 
 * [Q62048](https://programmers.co.kr/learn/courses/30/lessons/62048) - 멀쩡한 사각형
