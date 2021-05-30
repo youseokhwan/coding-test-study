@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-05-30
+
+* [Q43165](https://programmers.co.kr/learn/courses/30/lessons/43165) - 타겟 넘버
+* [Q60057](https://programmers.co.kr/learn/courses/30/lessons/60057) - 문자열 압축
+
 ### 21-05-26
 
 * [Q42586](https://programmers.co.kr/learn/courses/30/lessons/42586) - 기능개발
