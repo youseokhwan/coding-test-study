@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-02
+
+* [Q42746](https://programmers.co.kr/learn/courses/30/lessons/42746) - 가장 큰 수
+* [Q42587](https://programmers.co.kr/learn/courses/30/lessons/42587) - 프린터
+
 ### 21-05-30
 
 * [Q43165](https://programmers.co.kr/learn/courses/30/lessons/43165) - 타겟 넘버
