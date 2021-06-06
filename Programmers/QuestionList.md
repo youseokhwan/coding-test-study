@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-06
+
+* [Q42839](https://programmers.co.kr/learn/courses/30/lessons/42839) - 소수 찾기
+* [Q42842](https://programmers.co.kr/learn/courses/30/lessons/42842) - 카펫
+
 ### 21-06-02
 
 * [Q42746](https://programmers.co.kr/learn/courses/30/lessons/42746) - 가장 큰 수
