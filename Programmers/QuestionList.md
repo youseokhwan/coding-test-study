@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-09
+
+* [Q42727](https://programmers.co.kr/learn/courses/30/lessons/42727) - H-Index
+* [Q12945](https://programmers.co.kr/learn/courses/30/lessons/12945) - 피보나치 수
+
 ### 21-06-06
 
 * [Q42839](https://programmers.co.kr/learn/courses/30/lessons/42839) - 소수 찾기
