@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-13
+
+* [Q42583](https://programmers.co.kr/learn/courses/30/lessons/42583) - 다리를 지나는 트럭
+* [Q12939](https://programmers.co.kr/learn/courses/30/lessons/12939) - 최댓값과 최솟값
+
 ### 21-06-09
 
 * [Q42727](https://programmers.co.kr/learn/courses/30/lessons/42727) - H-Index
