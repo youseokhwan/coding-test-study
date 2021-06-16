@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-16
+
+* [Q42888](https://programmers.co.kr/learn/courses/30/lessons/42888) - 오픈채팅방
+* [Q42883](https://programmers.co.kr/learn/courses/30/lessons/42883) - 큰 수 만들기
+
 ### 21-06-13
 
 * [Q42583](https://programmers.co.kr/learn/courses/30/lessons/42583) - 다리를 지나는 트럭
