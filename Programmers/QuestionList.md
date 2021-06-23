@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-23
+
+* [Q64065](https://programmers.co.kr/learn/courses/30/lessons/64065) - 튜플
+* [Q72411](https://programmers.co.kr/learn/courses/30/lessons/72411) - 메뉴 리뉴얼
+
 ### 21-06-16
 
 * [Q42888](https://programmers.co.kr/learn/courses/30/lessons/42888) - 오픈채팅방
