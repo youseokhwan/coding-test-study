@@ -4,6 +4,11 @@
 
 ## Level 2
 
+### 21-06-27
+
+* [Q12949](https://programmers.co.kr/learn/courses/30/lessons/12949) - 행렬의 곱셈
+* [Q12951](https://programmers.co.kr/learn/courses/30/lessons/12951) - Jaden 문자열 만들기
+
 ### 21-06-23
 
 * [Q64065](https://programmers.co.kr/learn/courses/30/lessons/64065) - 튜플
