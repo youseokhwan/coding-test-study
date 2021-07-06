@@ -1,7 +1,7 @@
 import java.lang.StringBuilder
 
 fun main() {
-    print(solutionw(intArrayOf(5,4,3,7,8)))
+    print(solutionw(intArrayOf(6,10,2)))
 }
 
 fun solutionw(numbers: IntArray): String {
@@ -11,8 +11,12 @@ fun solutionw(numbers: IntArray): String {
         stringArray.add(it.toString())
     }
     stringArray.sortedWith(Comparator<String> { o1, o2 ->
+        println(       "o1은 $o1 o2는 $o2")
+
         (o2 + o1).compareTo(o1 + o2)
     }).forEach {
+        println(it)
+
         stringBuilder.append(it)
     }
     if((stringBuilder.toString())[0] == '0') {
